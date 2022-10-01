@@ -1,6 +1,6 @@
 # coffee-shop-landing-page
 
-A Responsive Dog Show Page created with HTML and CSS.
+A Responsive Coffee Shop Landing Page created with HTML and CSS.
 
 ## Live Demo 
 <a href='https://yafet-123.github.io/coffee-shop-landing-page/' target="_blank">Coffee Landing Page</a>
